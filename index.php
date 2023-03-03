@@ -172,7 +172,7 @@
                                         termos?</label>
                                 </div>
 
-                                <button type="submit" class="btn btn-default-color">Registre-se</button>
+                                <button type="submit" class="btn btn-default-color">Register</button>
                             </form>
 
                         </div>
